@@ -48,7 +48,8 @@ To deactivate the environment, you should run `deactivate` from the command prom
 
 ##### 2.3 Using Google Colab (google account needed)
 
-Go to [Google Colab](https://colab.research.google.com/), select `GitHub` as a source, and fill in the path to this repository (`https://github.com/vischia/atdtf`). Possibly Google will ask for access to your GitHub account, although installing from a public third party repository should not require that, in principle.
+- Messy way: Go to [Google Colab](https://colab.research.google.com/), select `GitHub` as a source, and fill in the path to this repository (`https://github.com/vischia/atdtf`). Possibly Google will ask for access to your GitHub account, although installing from a public third party repository should not require that, in principle.
+- Simple way: open the repository on github, click on the desired tutorial, then click on the "Open in Colab" badge in the frst cell of the notebook.
 
 When the colab instance is active, open the jupyter notebook you want to access (e.g. `01_dataChallenge.ipynb` and run the cell labelled "*If you are using COLAB*"
 
